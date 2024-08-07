@@ -1,4 +1,4 @@
-# Real Time Video Stream
+# Real Time Video Stream C# Console Project
 
 This C# console project is developed to capture Real-Time video streams using RTSP (Real-Time Streaming Protocol) and apply computer vision techniques. The following C# code captures a video stream from an RTSP URL and displays it live using the Emgu CV library.
 
